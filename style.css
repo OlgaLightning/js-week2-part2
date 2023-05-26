@@ -1,0 +1,19 @@
+img {
+    width: 300px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    margin: 0 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 0;
+    width: 150px;
+    font-size: 16px;
+}
